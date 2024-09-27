@@ -1,5 +1,10 @@
+# Overview
+
+For this project, you will use data cleaning, imputation, analysis, and visualization to generate insights for a business stakeholder.
+
+
 # Busines understanding
-The company is new in the industry and they are interested in purchasing and operating airplanes for commercialand private enterprice but they are not familiar with any potential risks
+The company is new in the industry and they are interested in purchasing and operating airplanes for commercial and private enterprise but they are not familiar with any potential risks.
 
 **Objectives;**
 To determine which aircraft are of lowest risk for the company for the company to invest in
@@ -7,17 +12,15 @@ Identify main causes of accidents in airlines
 Types of airlines that are likely to cause accidents
 
 **Stakeholders**
-This are the business investors who are up tp start to start the business.The airline manufacturerswho can provide suitable aircrafts for desired business and the reliale customers aimed at using the company facilities(aircrafts) and other transport services
+This are the business investors who are up to start to start the business.The airline manufacturers who can provide suitable aircrafts for desired business and the reliale customers aimed at using the company facilities(aircrafts) and other transport services
 
 **Understanding business concept**
 This involves understanding market conditions,competitive environments,regulatory limitations and internal business processes.
 
 **Success criteria**
-Safety in general for both customers and other stakeholdersby adhering to appropriate safety measures not forgeting customers or passenger cargo and response to technical issues
 Ensuring efficiency in operations in terms of time managenent and other terms and condiotions of airline.The company should alse choose the type of aircraft based on their customer need being private or commercial.
 
 **Risks**
-This may include; 
 Financial crisis
 Unskilled personels
 Safety incidents
@@ -66,7 +69,11 @@ Here we handles outliers on our continuous data since it may influence statistic
 Here we split our data into separate groups and performed computations for better findings.
 This data is transformed to actionable information which can help the company gain insights and improve on performance.
 
+# Data Visualization
 
+Visualizations can be accessed in the link below
+
+https://public.tableau.com/app/profile/bosco.mukara/viz/learn-wb-2024-09-JB/Dashboard1?publish=yes
 
 
 
