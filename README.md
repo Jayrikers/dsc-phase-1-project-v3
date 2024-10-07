@@ -72,7 +72,7 @@ This data is transformed to actionable information which can help the company ga
 # Data Visualization
 
 Visualizations can be accessed in the link below
-[](Screenshot 2024-10-08 at 10.50.43)
+![](Screenshot 2024-10-08 at 10.50.43)
 
 https://public.tableau.com/app/profile/bosco.mukara/viz/learn-wb-2024-09-JB/Dashboard1?publish=yes
 
