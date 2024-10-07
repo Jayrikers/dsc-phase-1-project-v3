@@ -7,7 +7,7 @@ For this project, you will use data cleaning, imputation, analysis, and visualiz
 The company is new in the industry and they are interested in purchasing and operating airplanes for commercial and private enterprise but they are not familiar with any potential risks.
 
 **Objectives;**
-To determine which aircraft are of lowest risk for the company for the company to invest in
+To determine which aircraft are of lowest risk for the company to invest in
 Identify main causes of accidents in airlines
 Types of airlines that are likely to cause accidents
 
